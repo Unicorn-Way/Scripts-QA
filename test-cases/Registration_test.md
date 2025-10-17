@@ -4,6 +4,7 @@
 Como nuevo visitante, quiero poder crear una cuenta en la aplicación para acceder a todas las funcionalidades disponibles.
 
 **ID:** TC003
+**Titulo:** Validar que el usuario pueda crear una cuenta con éxito
 **Módulo:** Autenticación
 **Prioridad:** Alta
 **Tipo:** Funcional

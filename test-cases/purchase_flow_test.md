@@ -3,7 +3,8 @@
 **Historia de usuario:**  
 Como cliente registrado, quiero poder comprar productos fácilmente para completar mis pedidos sin errores.
 
-**ID:** TC006
+**ID:** TC005
+**Titulo:** Validar que el usuario pueda realizar una compra sin problemas
 **Módulo:** E-commerce
 **Prioridad:** Alta
 **Tipo:** Funcional
@@ -26,3 +27,7 @@ Como cliente registrado, quiero poder comprar productos fácilmente para complet
 - Pedido completado con éxito
 - Número de orden visible
 - Correo de confirmacion enviado
+
+## Estado
+
+- passed

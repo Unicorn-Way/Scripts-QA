@@ -5,6 +5,7 @@ Como usuario registrado, quiero poder iniciar sesión en la aplicación para acc
 
 
 **ID:** TC001
+**Titulo:** Validar que el usuario pueda entrar al sistema con credenciales validas
 **Módulo:** Autenticación
 **Prioridad:** Alta
 **tipo:** Funcional
